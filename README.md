@@ -12,3 +12,5 @@ La aplicación permite a los usuarios:
 ## Actualmente publicado aquí
 
 [Proyecto de Trivia](https://bryan56gm.github.io/trivia)
+
+![Trivia](https://raw.githubusercontent.com/bryan56gm/trivia/main/preview.jpg)
